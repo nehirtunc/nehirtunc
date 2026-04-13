@@ -1,7 +1,7 @@
 # Nehir Tunç
-**Yazılım Geliştirici | Bilgisayar Bilimleri & Mühendisliği**
+**Yazılım Geliştirici | Bilgisayar Mühendisliği**
 
-Beykoz Üniversitesi'nde eğitimime devam ederken, teorik bilgisayar bilimleri prensiplerini uçtan uca yazılım projelerine dönüştürüyorum. Veritabanı mimarileri, sistem programlama ve modern web/mobil teknolojileri üzerine odaklanarak, karmaşık problemleri kullanıcı dostu çözümlere kavuşturmaktan motive oluyorum. Şu anda yeteneklerimi kurumsal ölçekte uygulayabileceğim uzun dönem profesyonel deneyim fırsatlarına açığım.
+Beykoz Üniversitesi Bilgisayar Mühendisliği(İngilizce)eğitimime devam ederken, teorik bilgisayar bilimleri prensiplerini yazılım projelerine dönüştürüyorum. Veritabanı mimarileri, sistem programlama ve modern web/mobil teknolojileri üzerine odaklanarak, karmaşık problemleri kullanıcı dostu çözümlere kavuşturmaktan motive oluyorum. Şu anda yeteneklerimi kurumsal ölçekte uygulayabileceğim uzun dönem profesyonel deneyim fırsatlarına açığım.
 
 ### 🛠️ Teknik Yetkinlikler
 
@@ -12,12 +12,18 @@ Beykoz Üniversitesi'nde eğitimime devam ederken, teorik bilgisayar bilimleri p
 
 ### 🚀 Öne Çıkan Mühendislik Projeleri
 
-* 🎓 **[Edulera Course Helper](Buraya projenin linkini ekle)**
-    * **Teknolojiler:** HTML, CSS, JavaScript
-    * Sıfırdan tasarlanmış modern bir e-öğrenme platformu arayüzü. Dinamik quiz modülleri ve sertifikasyon altyapısı ile etkileşimli bir kullanıcı deneyimi (UX) sunmaktadır.
-* 💊 **[Pill Reminder ](Buraya projenin linkini ekle)**
-    * **Teknolojiler:** Dart
-    *  (Grup projesi olarak, çevik geliştirme prensipleriyle hayata geçirilmiştir.)
+* 🎓 **[Edulera Course Helper]
+    * HTML, CSS ve JavaScript kullanılarak geliştirilen kapsamlı bir online eğitim platformu web sitesidir. Sıfırdan tasarlanmış modern bir e-öğrenme platformu arayüzü , dinamik quiz modülleri, video eğitim içerikleri,ödeme entegrasyonu, admin/kurumsal panelleri ve başarıya bağlı otomatik sertifika üretim modülleri ile etkileşimli bir kullanıcı deneyimi (UX) sunmaktadır.
+* 💊 **[Pill Reminder ]
+* Kullanıcıların ilaç alma zamanlarını takip etmelerini sağlayan mobil uygulama. Kod geliştirme, hata tespiti (debugging) ve modül entegrasyonlarında aktif rol oynadım.
+
+### 🤝 Kişisel Beceriler ve Çalışma Pratiği
+
+* **Zaman Yönetimi ve Planlama:** Üniversite eğitimimle eş zamanlı olarak web, mobil ve sistem tabanlı projeler geliştirmek, bana kısıtlı zamanda önceliklendirme yapma ve hem akademik hem de teknik süreçleri verimli bir şekilde yürütme disiplini kazandırdı.
+* **Takım Çalışması ve İletişim:** İki kişilik mühendislik ekipleriyle yürüttüğüm mobil uygulama gibi çok bileşenli projeler, sorumluluk paylaşımı yapma, ortak karar alma ve teknik iletişim becerilerimi büyük ölçüde güçlendirdi.
+* **Araştırma ve Kendi Kendine Öğrenme:** Derleyici sistemler veya spesifik web framework'leri ile çalışırken karşılaştığım teknik engelleri literatür tarayarak ve dokümantasyon okuyarak çözmek, beni yeni teknolojilere hızla adapte olabilen bir geliştirici haline getirdi.
+* **Analitik Yaklaşım:** Veritabanı normalizasyonu gibi karmaşık mimari süreçleri koda dökerken kazandığım pratik, problemleri parçalara bölerek adım adım çözme yeteneğimi pekiştirdi.
+
 
 ### 📫 İletişim ve Bağlantılar
 
