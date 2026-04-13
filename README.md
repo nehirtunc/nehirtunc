@@ -23,7 +23,7 @@ Beykoz Üniversitesi Bilgisayar Mühendisliği(İngilizce)eğitimime devam ederk
 * **Takım Çalışması ve İletişim:** İki kişilik mühendislik ekipleriyle yürüttüğüm mobil uygulama gibi çok bileşenli projeler, sorumluluk paylaşımı yapma, ortak karar alma ve teknik iletişim becerilerimi büyük ölçüde güçlendirdi.
 * **Araştırma ve Kendi Kendine Öğrenme:** Derleyici sistemler veya spesifik web framework'leri ile çalışırken karşılaştığım teknik engelleri literatür tarayarak ve dokümantasyon okuyarak çözmek, beni yeni teknolojilere hızla adapte olabilen bir geliştirici haline getirdi.
 * **Analitik Yaklaşım:** Veritabanı normalizasyonu gibi karmaşık mimari süreçleri koda dökerken kazandığım pratik, problemleri parçalara bölerek adım adım çözme yeteneğimi pekiştirdi.
-
+* **Yabancı Dil:** İngilizce (C1)
 
 ### 📫 İletişim ve Bağlantılar
 
