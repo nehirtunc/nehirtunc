@@ -12,9 +12,9 @@ Beykoz Üniversitesi Bilgisayar Mühendisliği(İngilizce)eğitimime devam ederk
 
 ### 🚀 Öne Çıkan Mühendislik Projeleri
 
-* 🎓 **[Edulera Course Helper]
+* 🎓 **Edulera**
     * HTML, CSS ve JavaScript kullanılarak geliştirilen kapsamlı bir online eğitim platformu web sitesidir. Sıfırdan tasarlanmış modern bir e-öğrenme platformu arayüzü , dinamik quiz modülleri, video eğitim içerikleri,ödeme entegrasyonu, admin/kurumsal panelleri ve başarıya bağlı otomatik sertifika üretim modülleri ile etkileşimli bir kullanıcı deneyimi (UX) sunmaktadır.
-* 💊 **[Pill Reminder ]
+* 💊 **Pill Reminder**
 * Kullanıcıların ilaç alma zamanlarını takip etmelerini sağlayan mobil uygulama. Kod geliştirme, hata tespiti (debugging) ve modül entegrasyonlarında aktif rol oynadım.
 
 ### 🤝 Kişisel Beceriler ve Çalışma Pratiği
